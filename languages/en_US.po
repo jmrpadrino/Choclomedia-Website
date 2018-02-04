@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: frinox\n"
-"POT-Creation-Date: 2017-03-06 12:27-0400\n"
-"PO-Revision-Date: 2017-03-06 12:28-0400\n"
+"POT-Creation-Date: 2018-02-04 10:51-0400\n"
+"PO-Revision-Date: 2018-02-04 10:53-0400\n"
 "Last-Translator: Jose Rodriguez <jrodriguez@webcreek.com>\n"
 "Language-Team: \n"
 "Language: en_US\n"
@@ -17,13 +17,13 @@ msgstr ""
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPath-1: .\n"
 
-#: archive-service.php:20 footer.php:11 header.php:36 header.php:49
+#: archive-service.php:13 footer.php:11 header.php:57 header.php:73
 #: includes/choclomedia-cpt.php:12 includes/choclomedia-cpt.php:13
-#: includes/choclomedia-cpt.php:45 index.php:120
+#: includes/choclomedia-cpt.php:45 index.php:123
 msgid "Servicios"
 msgstr "Services"
 
-#: archive-service.php:21
+#: archive-service.php:14
 msgid ""
 "Aquí en <span class=\"choclo\">Choclo</span><span class=\"media\">media</"
 "span> reconocemos que hay muchos retos que enfrentan nuestros usuarios, "
@@ -41,20 +41,20 @@ msgstr ""
 msgid "Todos los derechos reservados"
 msgstr "All rights reserved"
 
-#: footer.php:10 header.php:34
+#: footer.php:10 header.php:55
 msgid "Inicio"
 msgstr "Home"
 
-#: footer.php:11 header.php:49 index.php:123
+#: footer.php:11 header.php:73 index.php:126
 msgctxt "choclomedia"
 msgid "servicios"
 msgstr "services"
 
-#: footer.php:12 header.php:52 templates/customer-section.php:1
+#: footer.php:12 header.php:76 templates/customer-section.php:1
 msgid "clientes"
 msgstr "customers"
 
-#: footer.php:12 header.php:52
+#: footer.php:12 header.php:76
 msgid "Clientes"
 msgstr "Customers"
 
@@ -87,19 +87,19 @@ msgstr ""
 "pages in Quito."
 
 #: header.php:8
-msgid "P&aacute;ginas web en Quito | Diseño y desarrollo en WordPress"
-msgstr "Web pages in Quito | Design and development on WordPress"
+msgid "P&aacute;ginas web en Quito | Diseño Desarrollo WordPress"
+msgstr "We design and develop WordPress solutions"
 
-#: header.php:49
+#: header.php:73
 msgid "Todos los Servicios"
 msgstr "View all Services"
 
-#: header.php:53 header.php:61 index.php:99 index.php:145
+#: header.php:77 header.php:85 index.php:102 index.php:148
 #: templates/contact-section.php:1
 msgid "contacto"
 msgstr "contact"
 
-#: header.php:53 templates/contact-section.php:6
+#: header.php:77 templates/contact-section.php:6
 msgid "Contacto"
 msgstr "Contact"
 
@@ -212,7 +212,7 @@ msgstr ""
 msgid "Servicios de Choclomedia"
 msgstr "Choclomedia's services"
 
-#: index.php:12
+#: index.php:14
 msgid ""
 "Somos diseño y desarrollo de <span class=\"yellow-words\">páginas web</span> "
 "en <span class=\"yellow-words\">Quito</span>."
@@ -220,7 +220,7 @@ msgstr ""
 "We are design and development of <span class=\"yellow-words\">web pages</"
 "span> in <span class=\"yellow-words\">Quito</span>."
 
-#: index.php:13
+#: index.php:15
 msgid ""
 "Sabemos que nos merecemos una <span class=\"yellow-words\">mejor "
 "oportunidad</span>, por eso usamos la <span class=\"yellow-words\">mejor "
@@ -230,51 +230,55 @@ msgstr ""
 "so we use <span class=\"yellow-words\">the best web technology</span>, to "
 "promote your project."
 
-#: index.php:18 index.php:24
+#: index.php:16
+msgid "Haremos crecer su empresa, entérese como"
+msgstr "We will grow your company, find out how"
+
+#: index.php:21 index.php:27
 msgid "beneficios"
 msgstr "pros"
 
-#: index.php:30
+#: index.php:33
 msgid "Son"
 msgstr "There are"
 
-#: index.php:36
+#: index.php:39
 msgid "los beneficios <br/> que obtendrás <br /> con"
 msgstr "pros <br/> you will get <br /> with"
 
-#: index.php:52
+#: index.php:55
 msgid "Obtienes una base de clientes más grande."
 msgstr "Get a larger customer base."
 
-#: index.php:62
+#: index.php:65
 msgid "Educas a los consumidores sobre tú negocio."
 msgstr "Educate consumers about your business."
 
-#: index.php:72
+#: index.php:75
 msgid "Costo de promoción y comercialización eficaz."
 msgstr "Cost of promotion and effective marketing."
 
-#: index.php:82
+#: index.php:85
 msgid "Mejoras la comunicación con tus clientes."
 msgstr "Improve communication with your customers."
 
-#: index.php:92
+#: index.php:95
 msgid "Mantienes ventaja sobre tus competidores."
 msgstr "You maintain an advantage over your competitors."
 
-#: index.php:100
+#: index.php:103
 msgid "Descubre"
 msgstr "Discover"
 
-#: index.php:101
+#: index.php:104
 msgid "c&oacute;mo impulsar tu organizaci&oacute;n"
 msgstr "how to promote your organization"
 
-#: index.php:113
+#: index.php:116
 msgid "servicios"
 msgstr "services"
 
-#: index.php:122
+#: index.php:125
 msgid ""
 "Nuestros servicios de diseño y desarrollo de páginas web siempre serán de "
 "una calidad excepcional, debido a que nos esforzamos por lograr la "
@@ -285,19 +289,19 @@ msgstr ""
 "exceptional quality, since we strive to achieve excellence in everything "
 "that we do, in order to add significant value to your business."
 
-#: index.php:123
+#: index.php:126
 msgid "Hablemos"
 msgstr "Let's talk"
 
-#: index.php:123
+#: index.php:126
 msgid "Conozca nuestros servicios"
 msgstr "Discover all our services"
 
-#: index.php:137
+#: index.php:140
 msgid "<span class=\"orange\">Su página web</span> <br />a medida"
 msgstr "<span class=\"orange\">Your custom</span> <br />website"
 
-#: index.php:143
+#: index.php:146
 msgid ""
 "Hacemos diseño y desarrollo de paginas web dinámico y de vanguardia para "
 "organizaciones y negocios de todo tipo."
@@ -305,14 +309,14 @@ msgstr ""
 "We design and develop dynamic and state-of-the-art web pages for "
 "organizations and businesses of all kinds."
 
-#: index.php:144
+#: index.php:147
 msgid ""
 "Podemos adaptar requisitos complejos a una solución profesional fácil de "
 "administrar."
 msgstr ""
 "We can adapt complex requirements to an easy-to-manage professional solution."
 
-#: index.php:145
+#: index.php:148
 msgid "Díganos que necesita?"
 msgstr "Tell us what you need?"
 
@@ -369,6 +373,9 @@ msgstr ""
 "Is a bespoke news portal. It works under <strong> WordPress</strong>, the "
 "home is self-administered through a custom plugin. <strong>3 months of "
 "development. </strong>"
+
+#~ msgid "P&aacute;ginas web en Quito | Diseño y desarrollo en WordPress"
+#~ msgstr "Web pages in Quito | Design and development on WordPress"
 
 #~ msgid "Beneficios"
 #~ msgstr "Pros"
