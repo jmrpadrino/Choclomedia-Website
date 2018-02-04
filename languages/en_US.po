@@ -1,0 +1,1088 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: frinox\n"
+"POT-Creation-Date: 2017-03-06 12:27-0400\n"
+"PO-Revision-Date: 2017-03-06 12:28-0400\n"
+"Last-Translator: Jose Rodriguez <jrodriguez@webcreek.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: ..\\\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:2c,1;_ex:2c,1\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: archive-service.php:20 footer.php:11 header.php:36 header.php:49
+#: includes/choclomedia-cpt.php:12 includes/choclomedia-cpt.php:13
+#: includes/choclomedia-cpt.php:45 index.php:120
+msgid "Servicios"
+msgstr "Services"
+
+#: archive-service.php:21
+msgid ""
+"Aquí en <span class=\"choclo\">Choclo</span><span class=\"media\">media</"
+"span> reconocemos que hay muchos retos que enfrentan nuestros usuarios, "
+"nuestra familia. Es por eso que estamos felices de anunciar que estamos "
+"reinventando nuestra lista de servicios. Vamos a hacer el trabajo "
+"personalizado para ayudarle en su desarrollo de <strong>WordPress</strong>."
+msgstr ""
+"Here at <span class=\"choclo\">Choclo</span><span class=\"media\">media</"
+"span> we recognize that there are many challenges faced by our users, our "
+"family. Therefore, we are happy to announce that we are reinventing our list "
+"of services. We do custom work to help you in your <strong>WordPress</"
+"strong> development."
+
+#: footer.php:6
+msgid "Todos los derechos reservados"
+msgstr "All rights reserved"
+
+#: footer.php:10 header.php:34
+msgid "Inicio"
+msgstr "Home"
+
+#: footer.php:11 header.php:49 index.php:123
+msgctxt "choclomedia"
+msgid "servicios"
+msgstr "services"
+
+#: footer.php:12 header.php:52 templates/customer-section.php:1
+msgid "clientes"
+msgstr "customers"
+
+#: footer.php:12 header.php:52
+msgid "Clientes"
+msgstr "Customers"
+
+#: functions.php:71
+msgid "Navegacion Principal"
+msgstr "Main Navigation"
+
+#: functions.php:72
+msgid "Navegación Inferior"
+msgstr ""
+
+#: functions.php:73
+msgid "Lenguajes"
+msgstr "Languages"
+
+#: functions.php:80
+msgid "Un espacio para un widget"
+msgstr ""
+
+#: functions.php:82
+msgid "Aparece en la sección del footer del sitio."
+msgstr "Apears in the footer section of the site"
+
+#: header.php:6
+msgid ""
+"Somos una empresa en crecimiento dedicada al diseño y desarrollo de p&aacute;"
+"ginas web en Quito."
+msgstr ""
+"We are a growing company dedicated to the design and development of web "
+"pages in Quito."
+
+#: header.php:8
+msgid "P&aacute;ginas web en Quito | Diseño y desarrollo en WordPress"
+msgstr "Web pages in Quito | Design and development on WordPress"
+
+#: header.php:49
+msgid "Todos los Servicios"
+msgstr "View all Services"
+
+#: header.php:53 header.php:61 index.php:99 index.php:145
+#: templates/contact-section.php:1
+msgid "contacto"
+msgstr "contact"
+
+#: header.php:53 templates/contact-section.php:6
+msgid "Contacto"
+msgstr "Contact"
+
+#: includes/choclomedia-cpt.php:10
+msgctxt "Post Type General Name"
+msgid "Servicios"
+msgstr ""
+
+#: includes/choclomedia-cpt.php:11
+msgctxt "Post Type Singular Name"
+msgid "Servicios"
+msgstr ""
+
+#: includes/choclomedia-cpt.php:14
+msgid "Item Archives"
+msgstr ""
+
+#: includes/choclomedia-cpt.php:15
+msgid "Item Attributes"
+msgstr ""
+
+#: includes/choclomedia-cpt.php:16
+#, fuzzy
+msgid "Parent Item:"
+msgstr "Buscar"
+
+#: includes/choclomedia-cpt.php:17
+msgid "All Items"
+msgstr ""
+
+#: includes/choclomedia-cpt.php:18
+msgid "Add New Item"
+msgstr ""
+
+#: includes/choclomedia-cpt.php:19
+msgid "Add New"
+msgstr ""
+
+#: includes/choclomedia-cpt.php:20
+msgid "New Item"
+msgstr ""
+
+#: includes/choclomedia-cpt.php:21
+msgid "Edit Item"
+msgstr ""
+
+#: includes/choclomedia-cpt.php:22
+msgid "Update Item"
+msgstr ""
+
+#: includes/choclomedia-cpt.php:23
+#, fuzzy
+msgid "View Item"
+msgstr "Buscar"
+
+#: includes/choclomedia-cpt.php:24
+msgid "View Items"
+msgstr ""
+
+#: includes/choclomedia-cpt.php:25
+#, fuzzy
+msgid "Search Item"
+msgstr "Buscar"
+
+#: includes/choclomedia-cpt.php:26
+msgid "Not found"
+msgstr ""
+
+#: includes/choclomedia-cpt.php:27
+msgid "Not found in Trash"
+msgstr ""
+
+#: includes/choclomedia-cpt.php:28
+msgid "Featured Image"
+msgstr ""
+
+#: includes/choclomedia-cpt.php:29
+msgid "Set featured image"
+msgstr ""
+
+#: includes/choclomedia-cpt.php:30
+msgid "Remove featured image"
+msgstr ""
+
+#: includes/choclomedia-cpt.php:31
+msgid "Use as featured image"
+msgstr ""
+
+#: includes/choclomedia-cpt.php:32
+msgid "Insert into item"
+msgstr ""
+
+#: includes/choclomedia-cpt.php:33
+msgid "Uploaded to this item"
+msgstr ""
+
+#: includes/choclomedia-cpt.php:34
+msgid "Items list"
+msgstr ""
+
+#: includes/choclomedia-cpt.php:35
+msgid "Items list navigation"
+msgstr ""
+
+#: includes/choclomedia-cpt.php:36
+msgid "Filter items list"
+msgstr ""
+
+#: includes/choclomedia-cpt.php:46
+msgid "Servicios de Choclomedia"
+msgstr "Choclomedia's services"
+
+#: index.php:12
+msgid ""
+"Somos diseño y desarrollo de <span class=\"yellow-words\">páginas web</span> "
+"en <span class=\"yellow-words\">Quito</span>."
+msgstr ""
+"We are design and development of <span class=\"yellow-words\">web pages</"
+"span> in <span class=\"yellow-words\">Quito</span>."
+
+#: index.php:13
+msgid ""
+"Sabemos que nos merecemos una <span class=\"yellow-words\">mejor "
+"oportunidad</span>, por eso usamos la <span class=\"yellow-words\">mejor "
+"tecnología web</span>, para impulsar su proyecto."
+msgstr ""
+"We know that we deserve a <span class=\"yellow-words\">better chance</span>, "
+"so we use <span class=\"yellow-words\">the best web technology</span>, to "
+"promote your project."
+
+#: index.php:18 index.php:24
+msgid "beneficios"
+msgstr "pros"
+
+#: index.php:30
+msgid "Son"
+msgstr "There are"
+
+#: index.php:36
+msgid "los beneficios <br/> que obtendrás <br /> con"
+msgstr "pros <br/> you will get <br /> with"
+
+#: index.php:52
+msgid "Obtienes una base de clientes más grande."
+msgstr "Get a larger customer base."
+
+#: index.php:62
+msgid "Educas a los consumidores sobre tú negocio."
+msgstr "Educate consumers about your business."
+
+#: index.php:72
+msgid "Costo de promoción y comercialización eficaz."
+msgstr "Cost of promotion and effective marketing."
+
+#: index.php:82
+msgid "Mejoras la comunicación con tus clientes."
+msgstr "Improve communication with your customers."
+
+#: index.php:92
+msgid "Mantienes ventaja sobre tus competidores."
+msgstr "You maintain an advantage over your competitors."
+
+#: index.php:100
+msgid "Descubre"
+msgstr "Discover"
+
+#: index.php:101
+msgid "c&oacute;mo impulsar tu organizaci&oacute;n"
+msgstr "how to promote your organization"
+
+#: index.php:113
+msgid "servicios"
+msgstr "services"
+
+#: index.php:122
+msgid ""
+"Nuestros servicios de diseño y desarrollo de páginas web siempre serán de "
+"una calidad excepcional, debido a que nos esforzamos por lograr la "
+"excelencia en todo lo que hacemos, con el fin de agregar un valor "
+"significativo a su negocio."
+msgstr ""
+"Our services of design and development of web pages will always be of "
+"exceptional quality, since we strive to achieve excellence in everything "
+"that we do, in order to add significant value to your business."
+
+#: index.php:123
+msgid "Hablemos"
+msgstr "Let's talk"
+
+#: index.php:123
+msgid "Conozca nuestros servicios"
+msgstr "Discover all our services"
+
+#: index.php:137
+msgid "<span class=\"orange\">Su página web</span> <br />a medida"
+msgstr "<span class=\"orange\">Your custom</span> <br />website"
+
+#: index.php:143
+msgid ""
+"Hacemos diseño y desarrollo de paginas web dinámico y de vanguardia para "
+"organizaciones y negocios de todo tipo."
+msgstr ""
+"We design and develop dynamic and state-of-the-art web pages for "
+"organizations and businesses of all kinds."
+
+#: index.php:144
+msgid ""
+"Podemos adaptar requisitos complejos a una solución profesional fácil de "
+"administrar."
+msgstr ""
+"We can adapt complex requirements to an easy-to-manage professional solution."
+
+#: index.php:145
+msgid "Díganos que necesita?"
+msgstr "Tell us what you need?"
+
+#: templates/contact-section.php:11
+msgid "Direcci&oacute;n"
+msgstr "Address"
+
+#: templates/contact-section.php:17
+msgid "Tel&eacute;fono"
+msgstr "Phone"
+
+#: templates/contact-section.php:21
+msgid "También somos sociales"
+msgstr "We are also social"
+
+#: templates/contact-section.php:29
+msgid "Trabajemos de la mano."
+msgstr "Let's work hand in hand."
+
+#: templates/contact-section.php:35
+msgid "Nombre"
+msgstr "Name"
+
+#: templates/contact-section.php:41
+msgid "Correo Electr&oacute;nico"
+msgstr "E-mail"
+
+#: templates/contact-section.php:47
+msgid "Compa&ntilde;&iacute;a"
+msgstr "company"
+
+#: templates/contact-section.php:53
+msgid "Su mensaje"
+msgstr "Your message"
+
+#: templates/contact-section.php:57
+msgid "Todos los datos son requeridos"
+msgstr "All data is required"
+
+#: templates/contact-section.php:58
+msgid "Enviar"
+msgstr "Submit"
+
+#: templates/customer-section.php:7
+msgid "Clientes <span class=\"satisfied\">Satisfechos</span>"
+msgstr "<span class=\"satisfied\">Satisfied</span> customers"
+
+#: templates/customer-section.php:49
+msgid ""
+"es un portal de noticias diseñado a medida. Trabaja bajo <strong>WordPress</"
+"strong>, el home es autoadministrable a trav&eacute;s de un plugin hecho a "
+"medida. <strong>3 meses de desarrollo.</strong>"
+msgstr ""
+"Is a bespoke news portal. It works under <strong> WordPress</strong>, the "
+"home is self-administered through a custom plugin. <strong>3 months of "
+"development. </strong>"
+
+#~ msgid "Beneficios"
+#~ msgstr "Pros"
+
+#~ msgid "Satisfechos"
+#~ msgstr "Satisfied"
+
+#~ msgid ""
+#~ "Sabemos que nos merecemos una <span class=\"yellow-words\">mejor "
+#~ "oportunidad</span>, por eso usamos la <span class=\"yellow-words\">mejor "
+#~ "tecnología</span> para diseñar y desarrollar <span class=\"yellow-words"
+#~ "\">páginas web</span> para usted, en <span class=\"yellow-words\">Quito</"
+#~ "span>."
+#~ msgstr ""
+#~ "We know that we deserve a <span class=\"yellow-words\">better "
+#~ "opportunity</span>, that's why we use <span class=\"yellow-words\">the "
+#~ "best technology</span> to design and develop <span class=\"yellow-words"
+#~ "\">web pages</span> in <span class=\"yellow-words\">Quito</span>."
+
+#~ msgid ""
+#~ "Nuestro servicio y diseño de páginas web siempre serán de una calidad "
+#~ "excepcional, debido a que nos esforzamos por lograr la excelencia en todo "
+#~ "lo que hacemos, con el fin de agregar un valor significativo a su negocio."
+#~ msgstr ""
+#~ "Our service and design will always be of exceptional quality as we strive "
+#~ "for excellence in everything we do, in order to add significantly to your "
+#~ "business."
+
+#~ msgid "los beneficios <br/> que tendrás <br /> con"
+#~ msgstr "pros <br/> you will get <br /> with"
+
+#~ msgid ""
+#~ "Somos diseño y desarrollo de <span class=\"yellow-words\">páginas web</"
+#~ "span> en Quito."
+#~ msgstr ""
+#~ "We design and develop <span class=\"yellow-words\">web pages</span> in "
+#~ "Quito."
+
+#~ msgid "Páginas web en Quito | Diseño y desarrollo en WordPress"
+#~ msgstr "Websites in Quito | Design and development in WordPress"
+
+#~ msgid "Fregaderos"
+#~ msgstr "DishWashers"
+
+#~ msgid "Accesorios"
+#~ msgstr "Accesories"
+
+#~ msgid "Mapa"
+#~ msgstr "Map"
+
+#~ msgid "Ver mas"
+#~ msgstr "See more"
+
+#~ msgid "Navegacion del Footer 1"
+#~ msgstr "Footer nav 1"
+
+#~ msgid "Navegacion del Footer 2"
+#~ msgstr "Footer nav 2"
+
+#~ msgid "Area de Widget 1"
+#~ msgstr "Widget area 1"
+
+#~ msgid "Modelo"
+#~ msgstr "Model"
+
+#~ msgid "Alfanumérico."
+#~ msgstr "Alphanumeric"
+
+#~ msgid "Características"
+#~ msgstr "Features"
+
+#~ msgid "Tinas"
+#~ msgstr "Tubs"
+
+#~ msgid "Use numeros."
+#~ msgstr "Use numbers"
+
+#~ msgid "Instalación"
+#~ msgstr "Instalation"
+
+#~ msgid "Medidas"
+#~ msgstr "Sizes"
+
+#~ msgid "Ancho"
+#~ msgstr "Width"
+
+#~ msgid "Largo"
+#~ msgstr "Large"
+
+#~ msgid "Profundidad"
+#~ msgstr "Deep"
+
+#~ msgid "Lista de Accesorios"
+#~ msgstr "Accesories List"
+
+#~ msgid "Escriba la lista de accesorios que viene con el producto."
+#~ msgstr "Write the accesories list that comes with the product."
+
+#~ msgid "Documentos"
+#~ msgstr "Documents"
+
+#~ msgid "Diagrama"
+#~ msgstr "Diagram"
+
+#~ msgid "Manual de Limpieza"
+#~ msgstr "Cleaning Manual"
+
+#~ msgid "Manual de Instalación"
+#~ msgstr "Installation Manual"
+
+#~ msgid "Imagen"
+#~ msgstr "Image"
+
+#~ msgid "Imagen del banner"
+#~ msgstr "Banner Image"
+
+#~ msgid "Pegue aqui la ruta de la imagen desde el administrador de <a href=\""
+#~ msgstr "Paste here the image's url from <a href=\""
+
+#~ msgid "Mensaje"
+#~ msgstr "Mesage"
+
+#~ msgid "Mensaje Principal"
+#~ msgstr "Main Mesage"
+
+#~ msgid "Escriba un texto corto promocional para este banner."
+#~ msgstr "Write a promo text for this banner"
+
+#~ msgid "Boton \"Call to Action\""
+#~ msgstr "\"Call to Action\" buton"
+
+#~ msgid "Texto del Boton"
+#~ msgstr "Buton text"
+
+#~ msgid "Link del Boton"
+#~ msgstr "Buton Link"
+
+#~ msgid "Alineación"
+#~ msgstr "Alignment"
+
+#~ msgid "Derecha"
+#~ msgstr "Right"
+
+#~ msgid "Centro"
+#~ msgstr "Center"
+
+#~ msgid "Izquierda"
+#~ msgstr "Left"
+
+#~ msgid "Direccion"
+#~ msgstr "Address"
+
+#~ msgid "Dirección"
+#~ msgstr "Address"
+
+#~ msgid "Geolocalización"
+#~ msgstr "Geolocation"
+
+#~ msgid "Coordenadas de Google Maps"
+#~ msgstr "Google Maps Coords"
+
+#~ msgid "Introduzca las coordenadas del lugar."
+#~ msgstr "Enter the coordinates of the place."
+
+#~ msgid "Contacto y Redes Sociales"
+#~ msgstr "Contact & Social Network Info"
+
+#~ msgid "Teléfono de Oficina"
+#~ msgstr "Office Telephone"
+
+#~ msgid "Correo Electrónico"
+#~ msgstr "Email"
+
+#~ msgid "Coloque aqui la dirección completa de su perfil en esta red."
+#~ msgstr "Write the entire URL of the social network"
+
+#~ msgctxt "Post Type General Name"
+#~ msgid "Fregadero"
+#~ msgstr "DishWasher"
+
+#~ msgctxt "Post Type Singular Name"
+#~ msgid "Fregaderos"
+#~ msgstr "DishWashers"
+
+#~ msgid "Item Padre:"
+#~ msgstr "Parent ítem:"
+
+#~ msgid "Todos los items"
+#~ msgstr "All items"
+
+#~ msgid "Agregar nuevo item"
+#~ msgstr "Add new ítem"
+
+#~ msgid "Agregar nuevo"
+#~ msgstr "Add new"
+
+#~ msgid "Nuevo Item"
+#~ msgstr "New item"
+
+#~ msgid "Editar Item"
+#~ msgstr "Edit item"
+
+#~ msgid "Actualizar Item"
+#~ msgstr "Update item"
+
+#~ msgid "Ver Item"
+#~ msgstr "View item"
+
+#~ msgid "Buscar Item"
+#~ msgstr "Search ítem"
+
+#~ msgid "No encontrado"
+#~ msgstr "Not found"
+
+#~ msgid "No encontrado en papelera"
+#~ msgstr "Not found on trash"
+
+#~ msgid "Fregaderos de Frinox"
+#~ msgstr "Frinox's DishWashers"
+
+#~ msgctxt "Post Type General Name"
+#~ msgid "Accesorio"
+#~ msgstr "Accessory"
+
+#~ msgctxt "Post Type Singular Name"
+#~ msgid "Accesorios"
+#~ msgstr "Accessories"
+
+#~ msgid "Accesorios de Frinox"
+#~ msgstr "Frinox's Accessories"
+
+#~ msgctxt "Taxonomy General Name"
+#~ msgid "Series"
+#~ msgstr "Series"
+
+#~ msgctxt "Taxonomy Singular Name"
+#~ msgid "Serie"
+#~ msgstr "Serie"
+
+#~ msgid "Series"
+#~ msgstr "Series"
+
+#~ msgid "Item padre"
+#~ msgstr "Parent ítem:"
+
+#~ msgid "Item padre:"
+#~ msgstr "Parent ítem:"
+
+#~ msgid "Nuevo nombre"
+#~ msgstr "New name"
+
+#~ msgid "Editar item"
+#~ msgstr "Edit item"
+
+#~ msgid "Actualizar item"
+#~ msgstr "Update item"
+
+#~ msgid "Ver item"
+#~ msgstr "View item"
+
+#~ msgid "Separe con comas"
+#~ msgstr "Separate with comas"
+
+#~ msgid "Agregar o quitar items"
+#~ msgstr "Add or remove items"
+
+#~ msgid "Escoja de los mas usados"
+#~ msgstr "Pick from most used"
+
+#~ msgid "Items populares"
+#~ msgstr "Most popular"
+
+#~ msgid "Buscar items"
+#~ msgstr "Search ítem"
+
+#~ msgctxt "Taxonomy General Name"
+#~ msgid "Acabados"
+#~ msgstr "Workmanship"
+
+#~ msgctxt "Taxonomy Singular Name"
+#~ msgid "Acabado"
+#~ msgstr "Workmanship"
+
+#~ msgid "Acabados"
+#~ msgstr "Workmanship"
+
+#~ msgctxt "Taxonomy General Name"
+#~ msgid "Materiales"
+#~ msgstr "Materials"
+
+#~ msgctxt "Taxonomy Singular Name"
+#~ msgid "Material"
+#~ msgstr "Material"
+
+#~ msgid "Materiales"
+#~ msgstr "Materials"
+
+#~ msgctxt "Taxonomy General Name"
+#~ msgid "Calibres"
+#~ msgstr "Calibers"
+
+#~ msgctxt "Taxonomy Singular Name"
+#~ msgid "Calibre"
+#~ msgstr "Caliber"
+
+#~ msgid "Calibres"
+#~ msgstr "Calibers"
+
+#~ msgid "Ver más"
+#~ msgstr "See more"
+
+#~ msgid "Comparar"
+#~ msgstr "Compare"
+
+#~ msgid "Archivo .pdf / .docx"
+#~ msgstr ".pdf / .doc file"
+
+#~ msgid "Seleccione un archivo de su disco duro."
+#~ msgstr "Select a file from your hard drive."
+
+#~ msgid "Yellow"
+#~ msgstr "Amarillo"
+
+#~ msgid "Purple"
+#~ msgstr "Púrpura"
+
+#~ msgid "Blue"
+#~ msgstr "Azul"
+
+#~ msgctxt "string url"
+#~ msgid "inicio"
+#~ msgstr "home"
+
+#~ msgid "Volver"
+#~ msgstr "Go back"
+
+#~ msgctxt "string url"
+#~ msgid "contacto"
+#~ msgstr "contact"
+
+#~ msgid "Ir a Contacto"
+#~ msgstr "Go to Contact"
+
+#~ msgid "esta es la pagina de inicio"
+#~ msgstr "this is the index page"
+
+#~ msgid "este es otro texto par aprobar"
+#~ msgstr "This is another testing text"
+
+#~ msgctxt "Post Type General Name"
+#~ msgid "Producto"
+#~ msgstr "Product"
+
+#~ msgctxt "Post Type Singular Name"
+#~ msgid "Productos"
+#~ msgstr "Products"
+
+#~ msgid "Productos"
+#~ msgstr "Products"
+
+#~ msgid "productos"
+#~ msgstr "products"
+
+#~ msgid "Productos de Frinox"
+#~ msgstr "Frinox's products"
+
+#~ msgctxt "frinox"
+#~ msgid "Contacto"
+#~ msgstr "Contact"
+
+#~ msgctxt "string url"
+#~ msgid "Contacto"
+#~ msgstr "Contact"
+
+#~ msgid "Coordenadas"
+#~ msgstr "Coords"
+
+#~ msgid "Ingredientes"
+#~ msgstr "Ingredients"
+
+#~ msgid "Ingrediente"
+#~ msgstr "Ingredient"
+
+#~ msgid "Porciones"
+#~ msgstr "Portions"
+
+#~ msgctxt "string url"
+#~ msgid "nosotros"
+#~ msgstr "about-us"
+
+#~ msgid "Información Adicional"
+#~ msgstr "Aditional Information"
+
+#, fuzzy
+#~ msgid "Facebook"
+#~ msgstr "Facebook App"
+
+#~ msgid "Correos Electrónicos"
+#~ msgstr "Emails"
+
+#~ msgctxt "frinox"
+#~ msgid "esta es la pagina de inicio"
+#~ msgstr "this is the index page"
+
+#~ msgid "CATEGORÍAS"
+#~ msgstr "CATEGORIES"
+
+#~ msgid "MARCAS"
+#~ msgstr "BRANDS"
+
+#~ msgid "Nuestras Tiendas"
+#~ msgstr "Our Stores"
+
+#~ msgid "Contacto Rapido"
+#~ msgstr "Quick Contact"
+
+#~ msgid "NOMBRE"
+#~ msgstr "NAME"
+
+#~ msgid "CORREO ELECTRÓNICO"
+#~ msgstr "E-MAIL"
+
+#~ msgid "PAÍS"
+#~ msgstr "COUNTRY"
+
+#~ msgid "COMENTARIOS"
+#~ msgstr "COMMENTS"
+
+#~ msgid "Acepto los"
+#~ msgstr "I accept the"
+
+#~ msgid "terminos y condiciones"
+#~ msgstr "terms and conditions"
+
+#~ msgid "ENVIAR"
+#~ msgstr "SEND"
+
+#~ msgid "Mapa del Sitio"
+#~ msgstr "Sitemap"
+
+#~ msgid "Nosotros"
+#~ msgstr "About Us"
+
+#~ msgctxt "string url"
+#~ msgid "recetas"
+#~ msgstr "recipes"
+
+#~ msgid "Recetas"
+#~ msgstr "Recipes"
+
+#~ msgctxt "string url"
+#~ msgid "ventas-institucionales"
+#~ msgstr "institutional-sales"
+
+#~ msgid "Ventas Institucionales"
+#~ msgstr "Institutional Sales"
+
+#~ msgctxt "string url"
+#~ msgid "tiendas"
+#~ msgstr "stores"
+
+#~ msgid "Encu&eacute;ntranos"
+#~ msgstr "Find Us"
+
+#~ msgid "Categor&iacute;as"
+#~ msgstr "Categories"
+
+#~ msgid "Social Media"
+#~ msgstr "Social Media"
+
+#~ msgid "Subscripci&oacute;n al bolet&iacute;n"
+#~ msgstr "Newsletter"
+
+#~ msgid "Otro proyecto desarrollado por"
+#~ msgstr "Another project developed by"
+
+#~ msgid "Misión"
+#~ msgstr "Mission"
+
+#~ msgid "Visión"
+#~ msgstr "Vision"
+
+#~ msgid "Slogan"
+#~ msgstr "Slogan"
+
+#~ msgctxt "Post Type General Name"
+#~ msgid "Recetas"
+#~ msgstr "Recipes"
+
+#~ msgctxt "Post Type Singular Name"
+#~ msgid "Recetas"
+#~ msgstr "Recipe"
+
+#~ msgid "Todas las recetas"
+#~ msgstr "All recipes"
+
+#~ msgid "Crear nueva receta"
+#~ msgstr "Create new recipe"
+
+#~ msgid "Nueva receta"
+#~ msgstr "New recipe"
+
+#~ msgctxt "recetas"
+#~ msgid "recetas"
+#~ msgstr "recipes"
+
+#~ msgid "recetas"
+#~ msgstr "recipes"
+
+#~ msgctxt "Taxonomy General Name"
+#~ msgid "Tipos de Recetas"
+#~ msgstr "Types of Recipes"
+
+#~ msgctxt "Taxonomy Singular Name"
+#~ msgid "Tipo de Receta"
+#~ msgstr "Recipe type"
+
+#~ msgid "Tipos de Recetas"
+#~ msgstr "Types of Recipes"
+
+#~ msgid "Todos las Recetas"
+#~ msgstr "All Recipes"
+
+#~ msgctxt "Taxonomy General Name"
+#~ msgid "Marcas"
+#~ msgstr "Brands"
+
+#~ msgctxt "Taxonomy Singular Name"
+#~ msgid "Marcas"
+#~ msgstr "Brand"
+
+#~ msgid "Marcas"
+#~ msgstr "Brands"
+
+#~ msgid "Todos las Marcas"
+#~ msgstr "All Brands"
+
+#, fuzzy
+#~ msgid "Agregar nueva Marca"
+#~ msgstr "Create new recipe"
+
+#~ msgid "Actualizar Marcas"
+#~ msgstr "Update Brands"
+
+#~ msgctxt "Post Type General Name"
+#~ msgid "Tiendas"
+#~ msgstr "Stores"
+
+#~ msgctxt "Post Type Singular Name"
+#~ msgid "Tienda"
+#~ msgstr "Store"
+
+#~ msgid "Tiendas"
+#~ msgstr "Stores"
+
+#~ msgid "Todas las tiendas"
+#~ msgstr "All stores"
+
+#~ msgctxt "tiendas"
+#~ msgid "tiendas"
+#~ msgstr "stores"
+
+#~ msgid "tiendas"
+#~ msgstr "stores"
+
+#~ msgid "Publicidad"
+#~ msgstr "Advertising"
+
+#~ msgid "Hola"
+#~ msgstr "Hello"
+
+#~ msgid "[Cerrar Sesión]"
+#~ msgstr "[Logout]"
+
+#~ msgid "NOSOTROS"
+#~ msgstr "ABOUT US"
+
+#~ msgid "RECETAS"
+#~ msgstr "RECIPES"
+
+#~ msgid "VENTAS INSTITUCIONALES"
+#~ msgstr "INSTITUTIONAL SALES"
+
+#~ msgid "ENCUÉNTRANOS"
+#~ msgstr "FIND US"
+
+#~ msgid "Encuéntranos"
+#~ msgstr "Find Us"
+
+#~ msgid "Empezar proceso"
+#~ msgstr "Start process"
+
+#~ msgid "DESCRIPCIÓN DEL PRODUCTO"
+#~ msgstr "PRODUCT DESCRIPTION"
+
+#~ msgid "CARACTERÍSTICAS"
+#~ msgstr "FEATURES"
+
+#~ msgid "RECETAS QUE NECESITAN DE ESTE PRODUCTO"
+#~ msgstr "RECIPES THAT NEED OF THIS PRODUCT"
+
+#~ msgid "INGREDIENTES"
+#~ msgstr "INGREDIENTS"
+
+#~ msgid "PROCEDIMIENTO"
+#~ msgstr "PROCEDURE"
+
+#~ msgid "PRODUCTOS USADOS EN ESTA RECETA"
+#~ msgstr "PRODUCTS USED IN THIS RECIPE"
+
+#~ msgid "COMPRAR AHORA"
+#~ msgstr "SHOP NOW"
+
+#~ msgctxt "mnt"
+#~ msgid "productos"
+#~ msgstr "items"
+
+#~ msgctxt "mnt"
+#~ msgid "producto"
+#~ msgstr "item"
+
+#~ msgid "Home"
+#~ msgstr "Inicio"
+
+#~ msgid "About Us"
+#~ msgstr "¿Quiénes Somos?"
+
+#~ msgid "Blog"
+#~ msgstr "Blog"
+
+#~ msgid "Legal"
+#~ msgstr "Legal"
+
+#~ msgid "Affiliates"
+#~ msgstr "Afiliados"
+
+#~ msgid "Cookie Policy"
+#~ msgstr "Política de Cookies"
+
+#~ msgid "Calling Guide"
+#~ msgstr "Guía Telefónica"
+
+#, fuzzy
+#~ msgid "Services"
+#~ msgstr "Servicios Telefónicos"
+
+#~ msgid "Pay as you Go"
+#~ msgstr "Postpago"
+
+#~ msgid "Smart Home Phone Service"
+#~ msgstr "Servicio Telefónico Inteligente"
+
+#~ msgid "GSM / Sim card"
+#~ msgstr "GSM / Sim card"
+
+#~ msgid "Android App"
+#~ msgstr "Android App"
+
+#~ msgid "Apple iOS App"
+#~ msgstr "Apple iOS App"
+
+#~ msgid "Windows Phone App"
+#~ msgstr "Windows Phone App"
+
+#~ msgid "Phone Services"
+#~ msgstr "Servicios Telefónicos"
+
+#, fuzzy
+#~ msgid "Pay as yo Go"
+#~ msgstr "Postpago"
+
+#, fuzzy
+#~ msgid "Smart Phone Unlimited"
+#~ msgstr "Servicio Telefónico Inteligente"
+
+#, fuzzy
+#~ msgid "Smart Phone 500 Min"
+#~ msgstr "Servicio Telefónico Inteligente"
+
+#, fuzzy
+#~ msgid "Global Roaming Pay as you Go"
+#~ msgstr "Postpago"
+
+#~ msgid "Our Apps"
+#~ msgstr "Aplicaciones"
+
+#~ msgid "Sign In"
+#~ msgstr "Registrarse"
+
+#, fuzzy
+#~ msgid "Search Rates"
+#~ msgstr "Buscar"
+
+#~ msgid "Green"
+#~ msgstr "Verde"
+
+#~ msgid "Red"
+#~ msgstr "Rojo"
+
+#, fuzzy
+#~ msgid "Worlwide Service"
+#~ msgstr "Servicios Telefónicos"
+
+#~ msgid "Search"
+#~ msgstr "Buscar"
+
+#~ msgid "4 things Global Link"
+#~ msgstr "4 cosas en las que Global Link"
+
+#~ msgid "is really good at!"
+#~ msgstr "es realmente bueno!"
+
+#~ msgid "Online Support"
+#~ msgstr "Soporte En-línea"
+
+#~ msgid "about-us"
+#~ msgstr "¿Quiénes Somos?"
